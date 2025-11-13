@@ -54,7 +54,7 @@ Developed machine learning models to:
 - Model confusion matrices
 - Correlation analysis
 ## How to Use
-1. Clone repository: `git clone https://github.com/YOUR_USERNAME/employee-attrition-predi
+1. Clone repository
 2. Open `Employee_Attrition_Analysis.ipynb`
 3. Run all cells (dependencies managed automatically)
 4. View results, charts, and insights
